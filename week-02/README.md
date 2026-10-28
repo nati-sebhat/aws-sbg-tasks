@@ -6,6 +6,15 @@ Mini Semantic Search is a machine learning and NLP project that retrieves releva
 
 Unlike traditional keyword search, semantic search can identify related questions even when they use different wording.
 
+## Run in Google Colab
+
+You can open and run the notebook directly in Google Colab:
+
+[Open Mini Semantic Search in Google Colab](https://colab.research.google.com/drive/13iB0Z0IfN7OZHeNc6DWvY08L1D97paBM?usp=sharing)
+
+Before running the notebook, install the required dependencies and ensure the dataset is accessible in the Colab environment.
+
+
 ## Features
 
 - Loads customer support data using Pandas.
