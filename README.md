@@ -5,3 +5,5 @@ Weekly Python tasks and projects completed as part of the AWS AI/ML training pro
 ## Weekly Tasks
 
 - [Week 01: Data Processing App](week-01/README.md)
+- [Week 02: Data, APIs & Embeddings](week-02/README.md)
+- [Week 03: Coming Soon](week-03/README.md)
