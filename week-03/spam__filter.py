@@ -51,8 +51,14 @@ print(duplicate_rows.head(20))
 
 
 
+def remove_duplicates(df):
+    """Remove duplicate rows and return the cleaned dataset."""
+    df = df.drop_duplicates()
+    return df
+
+
 # Remove duplicate rows
-df = df.drop_duplicates()
+df = remove_duplicates(df)
 
 # Check the cleaned dataset
 print("Dataset shape after cleaning:", df.shape)
