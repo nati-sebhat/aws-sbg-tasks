@@ -118,6 +118,7 @@ The dataset is not included in this repository and must be downloaded separately
 week-03/
 ├── data/                  # Local dataset, not uploaded to GitHub
 ├── spam_filter.ipynb      # Notebook containing code and results
+├── spam__filter.py        # a python file containing the source code
 ├── README.md              # Project documentation
 ├── requirements.txt       # Python dependencies
 └── .gitignore              # Files excluded from Git
