@@ -94,6 +94,46 @@ These experiments demonstrate that a model can achieve high test accuracy while 
 
 I learned how to preprocess a text dataset, convert messages into TF-IDF features, and train a Naive Bayes classifier for spam detection. I also learned that removing duplicate records can affect model evaluation and that high accuracy does not guarantee correct predictions for every message.
 
+
+### Virtual Environment Setup
+
+It is recommended to use a virtual environment to keep the project's dependencies separate from other Python projects.
+
+**1. Create a virtual environment:**
+
+```bash
+python -m venv .venv
+```
+
+**2. Activate the virtual environment:**
+
+Windows (PowerShell):
+```powershell
+.\.venv\Scripts\Activate.ps1
+```
+
+Windows (Command Prompt):
+```cmd
+.venv\Scripts\activate.bat
+```
+
+macOS/Linux:
+```bash
+source .venv/bin/activate
+```
+
+**3. Install the project dependencies:**
+
+```bash
+pip install -r requirements.txt
+```
+
+**4. Deactivate the environment when finished:**
+
+```bash
+deactivate
+```
+
 ## How to Run the Project
 
 1. Clone the repository.
