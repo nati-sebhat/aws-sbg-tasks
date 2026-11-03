@@ -6,6 +6,12 @@ This project builds a machine learning model that classifies SMS messages as eit
 
 The project also tests the model using five specially designed messages to explore its strengths and weaknesses.
 
+## Google Colab
+
+You can view and run the notebook, including its saved outputs, in Google Colab:
+
+[Open SMS Spam Classifier in Google Colab](https://colab.research.google.com/drive/1P9EwyQy1AGeCuKOFi3tEPSEmeW-GM4ZZ?usp=sharing)
+
 ## Dataset
 
 The project uses the [UCI SMS Spam Collection Dataset](https://archive.ics.uci.edu/dataset/228/sms+spam+collection).
